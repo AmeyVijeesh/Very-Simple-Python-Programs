@@ -3,7 +3,8 @@ import time
 print("""Hello!
 Welcome to the hangman program Amey made""")
 time.sleep(1)
-print("To begin with.....")
+print("To begin with.....")    
+
 fruits = ['pear', 'mango', 'apple', 'banana', 'apricot', 'pineapple', 'orange', 'grapefruit', 'avocado', 'papaya']
 animals = ['cheetah', 'lion', 'tiger', 'hippopotamus', 'zebra', 'jackal', 'rhinoceros', 'elephant', 'leopard']
 birds = ['sparrow', 'kingfisher', 'eagle', 'pigeon', 'owl', 'parrot', 'hummingbird', 'penguins', 'woodpecker']
