@@ -8,4 +8,4 @@ These programs do not have a GUI. However, if you want projects with GUI, check 
 
 Hope you understand these with the help of comments.
 
-Enjoy!
+Thanks!
