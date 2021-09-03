@@ -6,7 +6,7 @@ print(f"Welcome {name.capitalize()}!")
 time.sleep(1)
 print("You have to enter all the fields without leaving blank: ")
 
-Q1 = input("Did you travel to anywhere outside your country")
+Q1 = input("Did you travel to anywhere outside your country") 
 
 if Q1.upper() ==  "YES":
     yes = True
