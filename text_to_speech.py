@@ -12,7 +12,7 @@ print("""
 
 time.sleep(2)
 
-print("""This is the text to speech project by Amey.
+print("""This is the text to speech project.
 In this program, you can type what you want and the default music player on 
 your computer will open. Then, what you typed will play.""")
 print("_____________________________________________________________________________")
