@@ -9,6 +9,8 @@ If you lose, you have to pay!""")
 
 guess = int(input("""Enter a number between one(1) and hundred (100) 
 """))
+
+# Validation
 if 1 <= guess <= 100:
     outcome = random.randint(1, 100)
     if guess == outcome:
