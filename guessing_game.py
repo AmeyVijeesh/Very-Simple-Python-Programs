@@ -1,4 +1,5 @@
 import random
+# random library - comes packaged with Python, no need to install.
 
 print("""Hello!
 Welcome to the guessing game!
